@@ -30,8 +30,8 @@
 
 ## Screenshots
 
-![Mond3D - Picture1](resources/pic1.jpg)
-![Mond3D - Picture1](resources/pic2.jpg)
+![Mond3D - Picture1](resources/pic1.png)
+![Mond3D - Picture1](resources/pic2.png)
 
 ## Voraussetzungen
 
