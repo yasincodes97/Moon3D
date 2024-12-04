@@ -101,7 +101,8 @@ Ich möchte den folgenden Ressourcen danken, die mir bei der Entwicklung dieses 
 
 3. **Alternative**
 `Moon3D/playground/playground.exe` ausführen
-`Beim Runterladen der ZIP-File wird ein Virus vom Microsoft Defender angezeigt, dies kann ignoriert werden.`
+
+Beim Runterladen der ZIP-File wird ein Virus vom Microsoft Defender angezeigt, dies kann ignoriert werden.
 
 ## Fehlerbehebung
 
